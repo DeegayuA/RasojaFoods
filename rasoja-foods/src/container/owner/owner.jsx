@@ -1,10 +1,10 @@
 import React from 'react';
 
-import './Chef.css';
+import './owner.css';
 
-const Chef = () => (
+const owner = () => (
   <div>
-    Chef
+    owner
   </div>
 );
 

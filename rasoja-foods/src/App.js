@@ -10,7 +10,7 @@ const App = () => (
     <Header />
     <AboutUs />
     <SpecialMenu />
-    <Owner />
+    <owner />
     <Intro />
     <Laurels />
     <Gallery />

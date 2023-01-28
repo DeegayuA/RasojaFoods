@@ -8,4 +8,4 @@ const owner = () => (
   </div>
 );
 
-export default Chef;
+export default owner;

@@ -1,11 +1,11 @@
 import React from 'react';
 
-import './owner.css';
+import './Owner.css';
 
-const owner = () => (
+const Owner = () => (
   <div>
-    owner
+    Owner
   </div>
 );
 
-export default owner;
+export default Owner;

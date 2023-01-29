@@ -65,6 +65,11 @@
     border: none;
     outline: none;
     cursor: pointer;
+    transition: 0.2s ease;
+}
+.custom__button:hover{
+  font-weight: 1000;
+  font-size: 120%;
 }
 
 .p__cormorant {
@@ -98,7 +103,7 @@
 }
 
 .spoon__img {
-  width: 45px;
+  width: 90px;
 }
 
 @media screen and (min-width: 2000px) {

@@ -1,46 +1,51 @@
 import images from './images';
 
-const wines = [
+const spices = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: 'මිරිස් කුඩු',
+    price: 'Rs. 250.00',
+    tags: '100g',
   },
   {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+     title: 'කහ කුඩු',
+    price: 'Rs. 300.00',
+    tags: '100g',
   },
   {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
+     title: 'නිල් කුඩු',
+    price: 'Rs. 350.00',
+    tags: '100g',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: 'රතු කුඩු',
+    price: 'Rs. 450.00',
+    tags: '100g',
   },
   {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
+    title: 'කොළ කුඩු',
+    price: 'Rs. 550.00',
+    tags: '100g',
+  },
+   {
+    title: 'දම් කුඩු',
+    price: 'Rs. 550.00',
+    tags: '100g',
   },
 ];
 
-const cocktails = [
+const others = [
   {
-    title: 'Aperol Sprtiz',
+    title: 'noodles',
     price: '$20',
     tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
   },
   {
-    title: "Dark 'N' Stormy",
+    title: "Rice",
     price: '$16',
     tags: 'Dark rum | Ginger beer | Slice of lime',
   },
   {
-    title: 'Daiquiri',
+    title: 'Rice floor',
     price: '$10',
     tags: 'Rum | Citrus juice | Sugar',
   },
@@ -79,4 +84,4 @@ const awards = [
   },
 ];
 
-export default { wines, cocktails, awards };
+export default { spices, others, awards };

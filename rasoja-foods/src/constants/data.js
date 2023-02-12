@@ -4,32 +4,32 @@ const spices = [
   {
     title: 'මිරිස් කුඩු',
     price: 'Rs. 250.00',
-    tags: '100g',
+    tags: '100g | xxxxxxxx | xxx | xxxxxxxx ',
   },
   {
      title: 'කහ කුඩු',
     price: 'Rs. 300.00',
-    tags: '100g',
+    tags: '100g | xxxxxxxx | xxx | xxxxxxxx ',
   },
   {
      title: 'නිල් කුඩු',
     price: 'Rs. 350.00',
-    tags: '100g',
+    tags: '100g | xxxxxxxx | xxx | xxxxxxxx ',
   },
   {
     title: 'රතු කුඩු',
     price: 'Rs. 450.00',
-    tags: '100g',
+    tags: '100g | xxxxxxxx | xxx | xxxxxxxx ',
   },
   {
     title: 'කොළ කුඩු',
     price: 'Rs. 550.00',
-    tags: '100g',
+    tags: '100g | xxxxxxxx | xxx | xxxxxxxx ',
   },
    {
     title: 'දම් කුඩු',
     price: 'Rs. 550.00',
-    tags: '100g',
+    tags: '100g | xxxxxxxx | xxx | xxxxxxxx ',
   },
 ];
 

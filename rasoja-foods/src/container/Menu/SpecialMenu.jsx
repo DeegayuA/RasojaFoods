@@ -25,7 +25,7 @@ const SpecialMenu = () => (
         <img src={images.menu} alt="" />
       </div>
 
-      <div className="app__specialMenu-menu_spices flex__center">
+      <div className="app__specialMenu-menu_other flex__center">
         <p className='app__specialMenu_menu_heading'>Others</p>
         <div className="app__specialMenu_menu_items">
             {data.others.map((other,index) => (

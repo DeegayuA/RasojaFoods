@@ -6,7 +6,7 @@ import './SpecialMenu.css';
 import { GiWineBottle } from 'react-icons/gi';
 
 const SpecialMenu = () => (
-  <div className='app__specialMenu flex__center section__padding' id='menu' >
+  <div className='app__specialMenu flex__center section__padding' id='products' >
     <div className="app__specialMenu-title">
       <SubHeading title=" Best Sri Lankan Spices"/>
       <h1 className= "headtext__cormorant"> Products </h1>

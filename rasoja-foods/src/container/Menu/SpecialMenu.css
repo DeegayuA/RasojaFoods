@@ -29,10 +29,14 @@
     flex-direction: column;
 }
 .app__specialMenu-menu_img{
-    width: 410px;
+
+    width: 40vw;
     margin:  0 2rem;
 }
 .app__specialMenu-menu_img img{
+    border-radius: 50%;
+    object-position: center;
+    object-fit: cover;
     width: 100%;
     height: auto;
 }
@@ -43,11 +47,11 @@
     width: 100%;
 }
 @media  screen and (max-width : 2000px) {
-    .app__specialMenu-menu_img {
-        width: auto;
-        }
+    /* .app__specialMenu-menu_img {
+        width: 50vw;
+        } */
     .app__specialMenu-menu_img img{
-        height: 700px;
+        height: 100%;
     }
 }
 @media screen and (max-width : 1150px) {
